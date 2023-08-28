@@ -8,7 +8,6 @@ class app extends Component{
       txt : ' ',
       img: require('./Src/biscoito.png')
     };
-
     this.OpenCookie = this.OpenCookie.bind(this);
 
     this.frases = [
